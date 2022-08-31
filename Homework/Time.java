@@ -29,7 +29,7 @@ public class Time {
         // Question 5 of the exercise.
         System.out.print("The percent of the day that has passed is ");
         double percent = (timenow / totaltime) * 100;
-        System.out.print(percent);
+        System.out.print(Math.round(percent));
         System.out.println(" %");
 
         // Question 6 of the exercise.
