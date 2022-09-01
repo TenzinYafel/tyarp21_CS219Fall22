@@ -1,3 +1,5 @@
+package HW1;
+
 // Exercise 2.3
 // Submitted by Tenzin Yarphel
 public class Time {
