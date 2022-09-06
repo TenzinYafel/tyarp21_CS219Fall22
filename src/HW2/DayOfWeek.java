@@ -1,3 +1,9 @@
+/*
+Tenzin Yarphel
+09/ 06/ 2022
+HW 2
+ */
+
 package HW2;
 // import Scanner from util.
 import java.util.Scanner;
