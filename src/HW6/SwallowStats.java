@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class SwallowStats {
 
-    public static void swallow_stats1(){
+    public static void swallow_stats(){
 
     // connect to the web page of speeds.
     URL url = null; // null is the "nothing value"
@@ -53,6 +53,6 @@ public class SwallowStats {
 
     public static void main(String[] args) {
         // call the function just once and it will print out the answers.
-        swallow_stats1();
+        swallow_stats();
     }
 }
